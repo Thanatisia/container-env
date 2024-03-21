@@ -27,3 +27,12 @@
         - Added new directory 'environments/' for storing Python 'requirements.txt' files for installing dependencies required to create a chrootable Python Virtual Environment for various environments that can be used right out of the box (OOTB)
             + Added new requirements.txt file 'cybersecurity.requirement' for holding python packages that is used for a cybersecurity lab environment
 
+#### 1045H
+- New
+    + Added new 'Makefile' in 'docker/': For automating the controlling/management of docker images and containers using docker run
+
+- Updates
+    - Updated Dockerfile 'cybersecurity.Dockerfile' in 'Dockerfiles/environments/'
+        + Added Entry Point
+        + Added step to install dependencies - python packages
+
