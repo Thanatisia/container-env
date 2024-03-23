@@ -2,7 +2,7 @@
 
 ## Information
 
-** Description **
+**Description**
 -----------------
 
 Collection of requirements.txt files that works as a baseline, out-of-the-box recipe
@@ -10,7 +10,7 @@ to reinstall the dependencies required to recreate various environments or platf
 
 ## Environments
 
-** Cybersecurity Lab **
+**Cybersecurity Lab**
 -----------------------
 
 - Python Packages
@@ -18,13 +18,13 @@ to reinstall the dependencies required to recreate various environments or platf
 
 ## Setup
 
-** Dependencies **
+**Dependencies**
 ------------------
 + python
 + python-pip
 + python-venv
 
-** Pre-Requisites **
+**Pre-Requisites**
 --------------------
 - Create a Python Virtual Environment
     - Generate Virtual Environment
@@ -42,7 +42,7 @@ to reinstall the dependencies required to recreate various environments or platf
             .\[virtual-environment-name]\Scripts\activate
             ```
 
-** How to use? **
+**How to use?**
 -----------------
 - Install the Python package requirement files as necessary
     ```bash

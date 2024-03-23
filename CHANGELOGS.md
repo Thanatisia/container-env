@@ -48,3 +48,8 @@
     - Updated document 'BUILD.md'
         + Added docker build and usage steps
 
+#### 1355H
+- Updates
+    - Updated document 'README.md'
+        + Fixed formatting
+
