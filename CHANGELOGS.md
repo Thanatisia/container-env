@@ -43,3 +43,8 @@
     - Added new directory 'docker/Makefiles' for storing all Makefiles to startup docker images via docker run
         + Added new Makefile 'dnstwist.Makefile' for starting up 'elceef/dnstwist' in docker using the official image
 
+#### 1352H
+- Updates
+    - Updated document 'BUILD.md'
+        + Added docker build and usage steps
+
