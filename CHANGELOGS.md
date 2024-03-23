@@ -3,6 +3,7 @@
 ## Table of Contents
 + [2024-03-20](#2024-03-20)
 + [2024-03-21](#2024-03-21)
++ [2024-03-23](#2024-03-23)
 
 ## Entry Logs
 ### 2024-03-20
@@ -35,4 +36,10 @@
     - Updated Dockerfile 'cybersecurity.Dockerfile' in 'Dockerfiles/environments/'
         + Added Entry Point
         + Added step to install dependencies - python packages
+
+### 2024-03-23
+#### 1335H
+- New
+    - Added new directory 'docker/Makefiles' for storing all Makefiles to startup docker images via docker run
+        + Added new Makefile 'dnstwist.Makefile' for starting up 'elceef/dnstwist' in docker using the official image
 
